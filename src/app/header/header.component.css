@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    background-color: cadetblue;
+    height: 8vh;
+}
+nav {
+}
+.navBar {
+    margin: 0 auto;
+}
+.navBar ul {
+    display: flex;
+    list-style: none;
+}
+.navBar ul li {
+    padding: 1rem;
+}
